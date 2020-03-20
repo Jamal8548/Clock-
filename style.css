@@ -19,7 +19,8 @@ body
 width: 500px;
 height: 500px;
 background-color: blue;
-border-radius: 55%;
+border-radius: 59%;
+
 border:8px solid white;
 position: relative;
 }
